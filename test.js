@@ -1,7 +1,7 @@
 
 const { inserirUsuario, listarUsuarios, atualizarUsuario, excluirUsuario } = require("./crud");
 // Teste: Inserir um usuário
-inserirUsuario("Bruno Souza", "bruno@email.com", "senha123", 48);
+// inserirUsuario("Bruno Souza", "bruno@email.com", "senha123", 48);
 // Teste: Listar usuários
 // listarUsuarios();
 // Teste: Atualizar um usuário (ID 1 para "Maria Pereira")
